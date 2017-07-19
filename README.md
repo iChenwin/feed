@@ -1,7 +1,6 @@
 ---------
 
-蟹蟹投喂~
-喵~
+投喂二维码，蟹蟹滋瓷~
 ---------
 微信：  
 ![](http://ichenwin.qiniudn.com/wxpay_s.png)  
