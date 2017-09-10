@@ -15,3 +15,5 @@
 
 支付宝：  
 ![](http://ichenwin.qiniudn.com/alipay_s.png)
+
+eth wallet: 28C68812ae4C6C83991229b4b94CE5d6Da8b286f
