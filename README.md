@@ -1,4 +1,4 @@
-支付宝红包天天领：
+支付宝红包天天领：  
 ![](http://ichenwin.qiniudn.com/0206_1.jpg)
 
 ```
