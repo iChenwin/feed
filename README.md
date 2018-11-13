@@ -15,9 +15,9 @@
 投喂二维码，蟹蟹滋瓷~
 ---------
 微信：  
-![](http://ichenwin.qiniudn.com/wxpay_s.png)  
+![](https://img-1258052568.cos.ap-shanghai.myqcloud.com/%E6%89%93%E8%B5%8F/wechat.png)  
 
 支付宝：  
-![](http://ichenwin.qiniudn.com/alipay_s.png)
+![](https://img-1258052568.cos.ap-shanghai.myqcloud.com/%E6%89%93%E8%B5%8F/alipay.jpg)
 
 eth wallet: 28C68812ae4C6C83991229b4b94CE5d6Da8b286f
