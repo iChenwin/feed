@@ -15,7 +15,7 @@
 投喂二维码，蟹蟹滋瓷~
 ---------
 微信：  
-![](https://img-1258052568.cos.ap-shanghai.myqcloud.com/%E6%89%93%E8%B5%8F/wechat.png)  
+![](https://img-1258052568.cos.ap-shanghai.myqcloud.com/%E6%89%93%E8%B5%8F/wechat.png =528x408)  
 
 支付宝：  
 ![](https://img-1258052568.cos.ap-shanghai.myqcloud.com/%E6%89%93%E8%B5%8F/alipay.jpg)
