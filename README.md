@@ -16,13 +16,14 @@
 
 投喂二维码，蟹蟹滋瓷~
 ---------
-微信： 
-
-
-
-支付宝：  
+#### 微信： 
 <div  align="center">    
-<img src="img-1258052568.cos.ap-shanghai.myqcloud.com/%E6%89%93%E8%B5%8F/alipay.jpg" width = "495" height = "536" alt="alipay" align=center />
+<img src="https://img-1258052568.cos.ap-shanghai.myqcloud.com/%E6%89%93%E8%B5%8F/wechat.png" width = "528" height = "408" alt="wechat" align=center />
+</div>
+
+#### 支付宝：  
+<div  align="center">    
+<img src="https://img-1258052568.cos.ap-shanghai.myqcloud.com/%E6%89%93%E8%B5%8F/alipay.jpg" width = "495" height = "536" alt="alipay" align=center />
 </div>
 
 eth wallet: 28C68812ae4C6C83991229b4b94CE5d6Da8b286f
